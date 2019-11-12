@@ -1,0 +1,163 @@
+body{
+	padding: 0;
+	margin: 0;
+	height:100%;
+}
+.flex_row{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.flex_column{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.flex_between{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.flex_column_between{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+.flex_around{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.flex_start{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.flex_column_start{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+.flex_end{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+.flex_wrap{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.width_100{
+	width: 100%;
+}
+.height_100{
+	height: 100%;
+}
+.height_50{
+	height: 50%;
+}
+.width_33{
+	width: 33%;
+}
+.width_31{
+	width: 31%;
+}
+.width_40{
+	width: 40%;
+}
+.width_20{
+	width: 20%;
+}
+.width_23{
+	width: 23%;
+}
+.width_24{
+	width: 24%;
+}
+.width_25{
+	width: 25%;
+}
+.width_50{
+	width: 50%;
+}
+.width_60{
+	width: 60%;
+}
+.width_66{
+	width: 66%;
+}
+.width_70{
+	width: 70%;
+}
+.width_80{
+	width: 80%;
+}
+.width_90{
+	width: 90%;
+}
+
+
+
+
+
+.label_width_220{
+	width: 100px;
+}
+.label_width_150{
+	width: 150px;
+}
+.input_width{
+	width: 35%;
+}
+.input_height_32{
+	height: 32px;
+}
+.add_delete{
+	margin-top: 10px;
+}
+.top_content{
+	margin: 20px 0;
+}
+.layui-input-sm{
+	height: 30px;
+	width: 16%;
+}
+.z_index_top{
+	z-index: 999;
+}
+.finger{
+	cursor:pointer;
+}
+.search_list{
+	margin-left: 5%;
+}
+.msg{
+	font-size: 10px;
+	color: red;
+	height: 20px;
+}
+
+
+.position_relative{
+	position: relative;
+}
+.position_absolute{
+	position: absolute;
+}
+.layui-nav-itemed .layui-nav-child{
+	background-color: rgba(0,0,0,.6)!important;
+}
+.tmp_submit_btn{
+	display: none;
+}
+.need{
+	color: red;
+}
+.edit_padding{
+	padding:20px;
+}

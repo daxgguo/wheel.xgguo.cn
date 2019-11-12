@@ -1,0 +1,30 @@
+.content_piss{
+	width: 21%;
+	height: 500px;
+	margin: 0 2% 20px 2%;
+	border: 2px solid #939393;
+	box-sizing: border-box;
+}
+.this_content{
+	width: 98%;
+	padding: 1%;
+}
+.piss_title{
+	border-bottom: 1px solid #939393;
+	height: 7%;
+}
+.piss_c{
+	height: 86%;
+	overflow-y:auto;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+.edit_btn{
+	height: 7%;
+	width:100%;
+}
+.padding{
+	height: 10px;
+	width:100%;
+}
